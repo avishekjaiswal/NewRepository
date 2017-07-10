@@ -1,2 +1,2 @@
 # NewRepository
-FirstRepository
+Setting up github account for managing code sources.
